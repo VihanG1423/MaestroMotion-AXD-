@@ -13,6 +13,15 @@
 
 ---
 
+## Overview
+
+![Summary](images/Summary.png)
+
+---
+
+
+---
+
 ## Project Timeline
 This project was completed in six parts, with my major contributions in:
 
@@ -21,13 +30,7 @@ This project was completed in six parts, with my major contributions in:
 
 ![Gantt Chart](images/GanttChart.png)
 
----
 
-## Overview
-
-![Summary](images/Summary.png)
-
----
 
 ---
 
