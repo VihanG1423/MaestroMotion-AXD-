@@ -31,6 +31,8 @@ This phase explores how visual feedback can help users learn and understand drum
 - The system loops an 8-count groove using **Michael Jackson's "Billie Jean"** as a reference.
 
 ![Work Package 1](images/WP1.png)
+
+Watch the video demonstration:
 [![Watch the Video](https://img.youtube.com/vi/I6NFUdLJbnA/0.jpg)](https://youtu.be/I6NFUdLJbnA)
 
 ---
@@ -38,7 +40,12 @@ This phase explores how visual feedback can help users learn and understand drum
 ## Work Package 2: Drum Beat Visualizer using Jitter
 In this phase, we introduce **audio-driven visualizations** that react to drum beats.
 
-### **Setup:**
+![Work Package 2](images/WP2.png)
+
+Watch the video demonstration:
+[![Watch the Video](https://img.youtube.com/vi/Aua2g5rv_I8/0.jpg)](https://youtu.be/Aua2g5rv_I8)
+
+### **Code Setup:**
 1. Open **Max/MSP**.
 2. Load the **Beat Visualizer Patch** (`WP2.maxpat`).
 3. Ensure **Jitter** is enabled for graphical visualization.
@@ -49,15 +56,12 @@ In this phase, we introduce **audio-driven visualizations** that react to drum b
 - Normalized amplitude values are mapped to motion.
 - The **jit.world object** renders graphics in sync with the rhythm.
 
-![Work Package 2](images/WP2.png)
-[![Watch the Video](https://img.youtube.com/vi/Aua2g5rv_I8/0.jpg)](https://youtu.be/Aua2g5rv_I8)
-
 ---
 
 ## Work Package 3: Beat Generation with Motion Capture Gestures
 This phase explores gesture-controlled beat generation using **MediaPipe & OpenCV**.
 
-### **Setup:**
-1. Install dependencies:
-   ```sh
-   pip install mediapipe opencv-python python-osc
+![Work Package 1](images/WP3.png)
+
+Watch the video demonstration:
+[![Watch the Video](https://img.youtube.com/vi/7CM9-ZBzIME/0.jpg)](https://youtu.be/7CM9-ZBzIME)
