@@ -11,15 +11,6 @@ I was tasked with working Part 6: Generative Drum groove visualisation.
 - [Conclusion & Future Reflection](#conclusion--future-reflection)
 - [Team Management](#team-management)
 
-
----
-
-## Initial Ideation
-![Introduction](images/Intro.png)
-
----
-
-
 ---
 
 ## Overview
@@ -27,6 +18,24 @@ I was tasked with working Part 6: Generative Drum groove visualisation.
 
 ---
 
+---
+
+## Project Timeline
+
+![GanttChart](images/GanttChart.png)
+
+---
+
+---
+
+## Initial Ideation
+Team Objective: Part 1-Concept Research 
+
+![Introduction](images/Intro.png)
+
+---
+
+Team Objective: Part 6-Generating Drumming visuals
 
 ## Work Package 1: Creating a DrumPad On MaxMSP
 This phase explores drum grooves can be played on a DrumPad in MaxMsp.
@@ -92,10 +101,4 @@ pip install python-osc
 
 ![Conclusion](images/Conclusion.png)
 
----
 
-## Team management
-
-![GanttChart](images/GanttChart.png)
-
----
