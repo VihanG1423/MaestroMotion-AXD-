@@ -16,7 +16,7 @@
 ---
 
 ## Work Package 1: Creating a DrumPad On MaxMSP
-This phase explores how visual feedback can help users learn and understand drum groove patterns in instrumental music.
+This phase explores drum grooves can be played on a DrumPad in MaxMsp
 
 ![Work Package 1](images/WP1.png)
 ### **Trying playing this Drum groove on WP1.maxpat patch with the instructions below:**
