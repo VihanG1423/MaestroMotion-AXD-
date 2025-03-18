@@ -68,3 +68,12 @@ This phase explores gesture-controlled beat generation using **MediaPipe & OpenC
 ### **Watch the video demonstration::**
 
 [![Watch the Video](https://img.youtube.com/vi/7CM9-ZBzIME/0.jpg)](https://youtu.be/7CM9-ZBzIME)
+
+---
+
+![Work Package 3](images/WP3.png)
+
+---
+## Gantt Chart: Team Projects
+
+![GanttChart](images/GanttChart.png)
