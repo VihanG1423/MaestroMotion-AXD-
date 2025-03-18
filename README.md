@@ -24,7 +24,7 @@
 
 ---
 
-<p align="center"><strong>Part 1: Concept Research</strong></p>
+<h1 align="center" style="font-size: 50px;">Part 1: Concept Research</h1>
 
 Team Objective: **Researching Interactive Audio Concepts**  
 
@@ -32,7 +32,7 @@ Team Objective: **Researching Interactive Audio Concepts**
 
 ---
 
-<p align="center"><strong>## Part 6: Generative Drumming Visuals</strong></p>
+<h1 align="center" style="font-size: 50px;">Part 6: Generative Drumming Visuals</h1>
 
 ## Work Package 1: Creating a DrumPad On MaxMSP
 This phase explores drum grooves can be played on a DrumPad in MaxMsp.
