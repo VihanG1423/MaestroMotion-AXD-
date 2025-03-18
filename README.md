@@ -17,7 +17,7 @@
 This project was completed in six parts, with my major contributions in:
 
 Part 1: Concept Research – Focused on ideation, defining the project scope, and exploring gesture-based audio interaction.
-Part 6: Final Implementation – Built the core components:
+Part 6: Final Implementation – Built the core components.
 
 
 ![Summary](images/Summary.png)
