@@ -69,11 +69,6 @@ pip install opencv-python
 pip install python-osc
 ```
 
-To run:
-```
-python hand_recognition.py
-```
-
 ### **Watch the video demonstration::**
 
 [![Watch the Video](https://img.youtube.com/vi/7CM9-ZBzIME/0.jpg)](https://youtu.be/7CM9-ZBzIME)
