@@ -1,3 +1,0 @@
-
-![Conclusion](images/Conclusion.png)
-
