@@ -19,7 +19,7 @@
 This phase explores drum grooves can be played on a DrumPad in MaxMsp.
 
 ![Work Package 1](images/WP1.png)
-### **Trying playing this Drum groove on WP1.maxpat patch with the instructions below:**
+#### **Trying playing this Drum groove on WP1.maxpat patch with the instructions below:**
 
 
 ### **Setup:**
