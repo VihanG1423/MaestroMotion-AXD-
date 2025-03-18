@@ -6,9 +6,9 @@
 - [Project Timeline](#project-timeline)
 - [Part 1: Concept Research](#part-1-concept-research)
 - [Part 6: Generative Drumming Visuals](#part-6-generative-drumming-visuals)
-- [Work Package 1: Creating a DrumPad on MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
-- [Work Package 2: Drum Beat Visualizer using Jitter](#work-package-2-drum-beat-visualizer-using-jitter)
-- [Work Package 3: Beat Generation with Motion Capture Gestures](#work-package-3-beat-generation-with-motion-capture-gestures)
+  - [Work Package 1: Creating a DrumPad on MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
+  - [Work Package 2: Drum Beat Visualizer using Jitter](#work-package-2-drum-beat-visualizer-using-jitter)
+  - [Work Package 3: Beat Generation with Motion Capture Gestures](#work-package-3-beat-generation-with-motion-capture-gestures)
 - [Conclusion & Future Reflection](#conclusion--future-reflection)
 
 ---
