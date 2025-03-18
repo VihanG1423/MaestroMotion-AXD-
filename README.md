@@ -7,11 +7,19 @@
 - [Work Package 3: Beat Generation with Motion Capture Gestures](#work-package-3-beat-generation-with-motion-capture-gestures)
 - [Conclusion & Future Reflection](#conclusion--future-reflection)
 - [Team Management](#team-management)
+- [Team Management](#team-management)
 
 ---
 
 ## Overview
 ![Summary](images/Summary.png)
+
+---
+
+---
+
+## Initial Ideation
+![Introduction](images/Intro.png)
 
 ---
 
