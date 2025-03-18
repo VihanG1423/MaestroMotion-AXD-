@@ -1,7 +1,5 @@
 # MaestroMotion-AXD-
 
-MaestroMotion-AXD is an interactive system that integrates **gesture recognition, drum sequencing, and real-time visualization** to create an immersive musical experience. Using **MediaPipe** for hand tracking, **Max/MSP** for audio processing, and **Jitter** for visual effects, this system allows users to generate beats and visuals dynamically using simple hand gestures.
-
 ## Table of Contents
 - [Overview](#overview)
 - [Work Package 1: Creating a DrumPad On MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
@@ -40,15 +38,17 @@ In this phase, we introduce **audio-driven visualizations** that react to drum b
 
 ![Work Package 2](images/WP2.png)
 
-### **Watch the video demonstration::**
-
-[![Watch the Video](https://img.youtube.com/vi/Aua2g5rv_I8/0.jpg)](https://youtu.be/Aua2g5rv_I8)
-
-### **Code Setup:**
+### **Setup:**
 1. Open **Max/MSP**.
 2. Load the **Beat Visualizer Patch** (`WP2.maxpat`).
 3. Ensure **Jitter** is enabled for graphical visualization.
 4. Play a drum loop to see visual effects reacting to beat amplitude.
+
+### **Watch the video demonstration::**
+
+[![Watch the Video](https://img.youtube.com/vi/Aua2g5rv_I8/0.jpg)](https://youtu.be/Aua2g5rv_I8)
+
+
 
 ---
 
@@ -56,6 +56,23 @@ In this phase, we introduce **audio-driven visualizations** that react to drum b
 This phase explores gesture-controlled beat generation using **MediaPipe & OpenCV**.
 
 ![Work Package 3](images/WP3.png)
+
+### **Setup:**
+
+```
+pip install mediapipe
+```
+```
+pip install opencv-python
+```
+```
+pip install python-osc
+```
+
+To run:
+```
+python hand_recognition.py
+```
 
 ### **Watch the video demonstration::**
 
