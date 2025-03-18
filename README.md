@@ -13,20 +13,21 @@
 
 ---
 
-## Overview
+## Project Timeline
 This project was completed in six parts, with my major contributions in:
 
-### **Part 1: Concept Research – Focused on ideation, defining the project scope, and exploring gesture-based audio interaction.**
-### **Part 6: Final Implementation – Built the core components.**
+### **Part 1: Concept Research – Focused on ideation, defining the project scope, and exploring audio visualisation.**
+### **Part 6: Final Implementation – Integration of MaxMsp patches.**
 
+![Gantt Chart](images/GanttChart.png)
+
+---
+
+## Overview
 
 ![Summary](images/Summary.png)
 
 ---
-
-## Project Timeline
-
-![Gantt Chart](images/GanttChart.png)
 
 ---
 
