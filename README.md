@@ -3,8 +3,15 @@
 ## Table of Contents
 
 - [What is MaestroMotion?](#overview)
+<<<<<<< HEAD
 - [Project Timeline](#Project-Timeline)
 - [Work Package 1: Creating a DrumPad On MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
+=======
+- [Project Timeline](#project-timeline)
+- [Part 1: Concept Research](#part-1-concept-research)
+- [Part 6: Generative Drumming Visuals](#part-6-generative-drumming-visuals)
+- [Work Package 1: Creating a DrumPad on MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
+>>>>>>> 27d23d8 (Your commit message)
 - [Work Package 2: Drum Beat Visualizer using Jitter](#work-package-2-drum-beat-visualizer-using-jitter)
 - [Work Package 3: Beat Generation with Motion Capture Gestures](#work-package-3-beat-generation-with-motion-capture-gestures)
 - [Conclusion & Future Reflection](#conclusion--future-reflection)
@@ -16,16 +23,18 @@
 
 ---
 
----
-
 ## Project Timeline
 
-![GanttChart](images/GanttChart.png)
+![Gantt Chart](images/GanttChart.png)
 
 ---
 
+<<<<<<< HEAD
 ---
 ## Part 1: Concept Research
+=======
+<p align="center"><strong>Part 1: Concept Research</strong></p>
+>>>>>>> 27d23d8 (Your commit message)
 
 Team Objective: **Researching Interactive Audio Concepts**  
 
@@ -33,7 +42,11 @@ Team Objective: **Researching Interactive Audio Concepts**
 
 ---
 
+<<<<<<< HEAD
 ## Part 6: Generative Drumming Visuals
+=======
+<p align="center"><strong>## Part 6: Generative Drumming Visuals</strong></p>
+>>>>>>> 27d23d8 (Your commit message)
 
 Team Objective: **Creating real-time drum visuals based on gesture and beat inputs**  
 
