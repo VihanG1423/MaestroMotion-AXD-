@@ -1,7 +1,5 @@
 # MaestroMotion-AXD-Vihan-Gemawat (CID:02075504)
 
-I was tasked with working Part 6: Generative Drum groove visualisation.
-
 ## Table of Contents
 - [Initial Ideation](#Introduction)
 - [Overview](#overview)
