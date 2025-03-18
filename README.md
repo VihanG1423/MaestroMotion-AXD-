@@ -21,18 +21,14 @@ MaestroMotion-AXD is an interactive system that integrates **gesture recognition
 ## Work Package 1: Creating a DrumPad On MaxMSP
 This phase explores how visual feedback can help users learn and understand drum groove patterns in instrumental music.
 
-### **Setup:**
-1. Open **Max/MSP**.
-2. Load the **DrumPad Max Patch** (`WP1.maxpat`).
-3. Run the patch and input a drum pattern.
-4. Observe real-time visual representation of the groove pattern.
-
-### **How It Works:**
-- The DrumPad allows users to simulate drum groove creation.
-- Audio-reactive visuals are generated in **Jitter**.
-- The system loops an 8-count groove using **Michael Jackson's "Billie Jean"** as a reference.
-
 ![Work Package 1](images/WP1.png)
+### **Trying playing this Drum groove on WP1.maxpat patch with the instructions below:**
+
+
+### **Setup:**
+1. Go to WP1 folder.
+2. Load the **DrumPad Max Patch** (`WP1.maxpat`) in Maxmsp.
+3. Run the patch and input the drum groove as shown in the image. (Bille-jean by Micheal Jackson).
 
 ### **Watch the video demonstration::**
 
@@ -54,11 +50,6 @@ In this phase, we introduce **audio-driven visualizations** that react to drum b
 2. Load the **Beat Visualizer Patch** (`WP2.maxpat`).
 3. Ensure **Jitter** is enabled for graphical visualization.
 4. Play a drum loop to see visual effects reacting to beat amplitude.
-
-### **How It Works:**
-- Captures drum beat amplitude using **peakamp~** object.
-- Normalized amplitude values are mapped to motion.
-- The **jit.world object** renders graphics in sync with the rhythm.
 
 ---
 
