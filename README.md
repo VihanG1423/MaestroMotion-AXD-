@@ -1,8 +1,8 @@
 # MaestroMotion-AXD-Vihan-Gemawat
 
 ## Table of Contents
-- [Overview](#overview)
 - [Initial Ideation](#Introduction)
+- [Overview](#overview)
 - [Work Package 1: Creating a DrumPad On MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
 - [Work Package 2: Drum Beat Visualizer using Jitter](#work-package-2-drum-beat-visualizer-using-jitter)
 - [Work Package 3: Beat Generation with Motion Capture Gestures](#work-package-3-beat-generation-with-motion-capture-gestures)
@@ -12,17 +12,19 @@
 
 ---
 
+## Initial Ideation
+![Introduction](images/Intro.png)
+
+---
+
+
+---
+
 ## Overview
 ![Summary](images/Summary.png)
 
 ---
 
----
-
-## Initial Ideation
-![Introduction](images/Intro.png)
-
----
 
 ## Work Package 1: Creating a DrumPad On MaxMSP
 This phase explores drum grooves can be played on a DrumPad in MaxMsp.
