@@ -4,8 +4,6 @@
 
 - [What is MaestroMotion?](#overview)
 - [Project Timeline](#Project-Timeline)
-- [Part 1](#Introduction)
-- [Part 6](#Generative Drumming visuals)
 - [Work Package 1: Creating a DrumPad On MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
 - [Work Package 2: Drum Beat Visualizer using Jitter](#work-package-2-drum-beat-visualizer-using-jitter)
 - [Work Package 3: Beat Generation with Motion Capture Gestures](#work-package-3-beat-generation-with-motion-capture-gestures)
@@ -27,40 +25,6 @@
 ---
 
 ---
-
-## Initial Ideation
-Team Objective: Part 1-Concept Research 
-
-![Introduction](images/Intro.png)
-
----
-
-# MaestroMotion-AXD-Vihan-Gemawat (CID: 02075504)
-
-## Table of Contents
-
-- [What is MaestroMotion?](#overview)
-- [Project Timeline](#project-timeline)
-- [Part 1: Concept Research](#part-1-concept-research)
-- [Part 6: Generative Drumming Visuals](#part-6-generative-drumming-visuals)
-- [Work Package 1: Creating a DrumPad on MaxMSP](#work-package-1-creating-a-drumpad-on-maxmsp)
-- [Work Package 2: Drum Beat Visualizer using Jitter](#work-package-2-drum-beat-visualizer-using-jitter)
-- [Work Package 3: Beat Generation with Motion Capture Gestures](#work-package-3-beat-generation-with-motion-capture-gestures)
-- [Conclusion & Future Reflection](#conclusion--future-reflection)
-
----
-
-## Overview
-![Summary](images/Summary.png)
-
----
-
-## Project Timeline
-
-![Gantt Chart](images/GanttChart.png)
-
----
-
 ## Part 1: Concept Research
 
 Team Objective: **Researching Interactive Audio Concepts**  
@@ -123,7 +87,7 @@ Ensure you have the required Python packages installed:
 pip install mediapipe
 pip install opencv-python
 pip install python-osc
-
+```
 
 ## Conclusion & Future Reflection
 
