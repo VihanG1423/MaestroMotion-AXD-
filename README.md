@@ -15,6 +15,9 @@
 
 ---
 
+## Work Package 1: Creating a DrumPad On MaxMSP
+This phase explores drum grooves can be played on a DrumPad in MaxMsp.
+
 ![Work Package 1](images/WP1.png)
 ### **Trying playing this Drum groove on WP1.maxpat patch with the instructions below:**
 
@@ -29,6 +32,9 @@
 [![Watch the Video](https://img.youtube.com/vi/I6NFUdLJbnA/0.jpg)](https://youtu.be/I6NFUdLJbnA)
 
 ---
+
+## Work Package 2: Drum Beat Visualizer using Jitter
+In this phase, we introduce **audio-driven visualizations** that react to drum beats.
 
 ![Work Package 2](images/WP2.png)
 
@@ -45,6 +51,9 @@
 
 
 ---
+
+## Work Package 3: Beat Generation with Motion Capture Gestures
+This phase explores gesture-controlled beat generation using **MediaPipe & OpenCV**.
 
 ![Work Package 3](images/WP3.png)
 
