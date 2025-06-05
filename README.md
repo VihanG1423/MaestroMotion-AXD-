@@ -73,9 +73,7 @@ In this phase, we introduce **audio-driven visualizations** that react to drum b
 3. Ensure **Jitter** is enabled for graphical visualization.
 4. Play a drum loop to see visual effects reacting to beat amplitude.
 
-### **Watch the video demonstration::**
 
-[![Watch the Video](https://img.youtube.com/vi/KqFcrxr7D-o/0.jpg)](https://youtu.be/KqFcrxr7D-o)
 
 
 
