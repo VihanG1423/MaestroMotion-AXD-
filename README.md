@@ -75,7 +75,7 @@ In this phase, we introduce **audio-driven visualizations** that react to drum b
 
 ### **Watch the video demonstration::**
 
-[![Watch the Video](https://img.youtube.com/vi/Aua2g5rv_I8/0.jpg)](https://youtu.be/Aua2g5rv_I8)
+[![Watch the Video](https://img.youtube.com/vi/KqFcrxr7D-o/0.jpg)](https://youtu.be/KqFcrxr7D-o)
 
 
 
