@@ -73,7 +73,9 @@ In this phase, we introduce **audio-driven visualizations** that react to drum b
 3. Ensure **Jitter** is enabled for graphical visualization.
 4. Play a drum loop to see visual effects reacting to beat amplitude.
 
+### **Watch the video demonstration::**
 
+[![Watch the Video](https://img.youtube.com/vi/Aua2g5rv_I8/0.jpg)](https://youtu.be/Aua2g5rv_I8)
 
 
 
@@ -96,11 +98,12 @@ pip install opencv-python
 pip install python-osc
 ```
 
+### **Watch the video demonstration::**
+
+[![Watch the Video](https://img.youtube.com/vi/7CM9-ZBzIME/0.jpg)](https://youtu.be/7CM9-ZBzIME)
 
 ---
 
 ## Conclusion & Future Reflection
 
 ![Conclusion](images/Conclusion.png)
-
-
